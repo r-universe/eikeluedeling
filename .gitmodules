@@ -7,4 +7,4 @@
 	url = https://github.com/cran/chillR
 [submodule "decisionSupport"]
 	path = decisionSupport
-	url = https://github.com/cran/decisionSupport
+	url = https://github.com/eikeluedeling/decisionsupport
